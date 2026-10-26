@@ -1,0 +1,18 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Archives and local builds (the docs are tracked as sources)
+*.zip
+dist/
+build/
+out/
+
+# Local secrets and scratch files
+.gh_token
+.env
+*.local.md
+tmp/
